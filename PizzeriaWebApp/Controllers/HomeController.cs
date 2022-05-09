@@ -18,6 +18,13 @@ namespace PizzeriaWebApp.Controllers
             return View();
         }
 
+        public IActionResult LeMiePizze()
+        {
+
+            return View();
+
+        }
+
         public IActionResult Privacy()
         {
             return View();
